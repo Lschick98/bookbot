@@ -1,2 +1,3 @@
-# bootdotdev-curriculum-bookbot
-Boot.Dev Curriculum BookBot assignment
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
